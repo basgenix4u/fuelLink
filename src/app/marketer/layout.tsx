@@ -314,11 +314,5 @@ export default function MarketerLayout({ children }: { children: React.ReactNode
     </div>
   );
 }
-/* git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/basgenix4u/fuelLink.git
-git push -u origin main */
 
 
